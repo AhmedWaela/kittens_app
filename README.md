@@ -1,4 +1,9 @@
-<h2 align="left">This Scaffold repesents available kittens</h2>
+<p align="left">This is scaffold represents available kittens
+  1- Mittens
+  2- Fluffy
+  3- Scooter
+  4- Steve
+</p>
 
 ###
 ![Screenshot_20240403_024838.png](Screenshot_20240403_024838.png)
